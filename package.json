@@ -1,8 +1,8 @@
 {
-  "name": "pomodoro-react",
+  "name": "counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luizbatanero.github.io/pomodoro-react",
+  "homepage": "https://JasmeetSingh0404.github.io/counter",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "immer": "^5.0.0",
